@@ -38,3 +38,8 @@ Handles account details, transactions, and balance management.
 - `__sub__(amount)`: Allows withdrawals using the `-` operator.
 
 ![Диаграмма без названия](https://github.com/user-attachments/assets/260673f0-bfdb-4e31-af29-f5bfb5da6bfe)
+
+Tests:
+
+![Снимок экрана (134)](https://github.com/user-attachments/assets/00dc3964-083c-4e81-aa9a-e7ff20e7b5ef)
+
